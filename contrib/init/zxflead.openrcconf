@@ -1,0 +1,26 @@
+# /etc/conf.d/zxflead: config file for /etc/init.d/zxflead
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/zxflea/zxflea.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/zxflead"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/zxflead.pid"
+
+# Where to write zxflead data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/zxflead"
+
+# User and group to own zxflead process
+#BITCOIND_USER="zxflea"
+#BITCOIND_GROUP="zxflea"
+
+# Path to zxflead executable
+#BITCOIND_BIN="/usr/bin/zxflead"
+
+# Nice value to run zxflead under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
