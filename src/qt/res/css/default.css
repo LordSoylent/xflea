@@ -881,7 +881,7 @@ QWidget .QFrame#frame .QLabel#label_5 { /* PHR Balances Label */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 min-width:160px;
 background-color:transparent;
-color:#000;
+color:#808080;
 font-weight:bold;
 font-size:14px;
 margin-right:5px;
@@ -908,7 +908,7 @@ margin-left:16px;
 QWidget .QFrame#frame .QLabel#labelBalanceText { /* Available Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -921,7 +921,7 @@ QWidget .QFrame#frame .QLabel#labelBalance { /* Available Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
@@ -934,7 +934,7 @@ margin-left:16px;
 QWidget .QFrame#frame .QLabel#labelPendingText { /* Pending Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -958,7 +958,7 @@ margin-left:16px;
 QWidget .QFrame#frame .QLabel#labelImmatureText { /* Immature Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -982,7 +982,7 @@ margin-left:16px;
 QWidget .QFrame#frame .QLabel#labelTotalText { /* Total Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1007,7 +1007,7 @@ QWidget .QFrame#frame_4 .QLabel#label_5z_3 { /* Zerocoin Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 min-width:160px;
 background-color:transparent;
-color:#000;
+color:#808080;
 font-weight:bold;
 font-size:14px;
 margin-right:5px;
@@ -1017,7 +1017,7 @@ padding-right:5px;
 QWidget .QFrame#frame_4 .QLabel#labelzBalanceText { /* Available zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1030,14 +1030,14 @@ QWidget .QFrame#frame_4 .QLabel#labelzBalance { /* Available zPHR Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_4 .QLabel#labelzBalanceUnconfirmedText { /* Unconfirmed zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1050,14 +1050,14 @@ QWidget .QFrame#frame_4 .QLabel#labelzBalanceUnconfirmed { /* Unconfirmed zPHR B
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_4 .QLabel#labelzBalanceMatureText { /* Mature zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1070,14 +1070,14 @@ QWidget .QFrame#frame_4 .QLabel#labelzBalanceMature { /* Mature zPHR Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_4 .QLabel#labelzBalanceImmatureText { /* Immature zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1090,7 +1090,7 @@ QWidget .QFrame#frame_4 .QLabel#labelzBalanceImmature { /* Immature zPHR Balance
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
@@ -1098,7 +1098,7 @@ QWidget .QFrame#frame_3 .QLabel#label_5z { /* Combined Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 min-width:160px;
 background-color:transparent;
-color:#000;
+color:#808080;
 font-weight:bold;
 font-size:14px;
 margin-right:5px;
@@ -1108,7 +1108,7 @@ padding-right:5px;
 QWidget .QFrame#frame_3 .QLabel#labelBalanceTextz { /* Available PHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1121,14 +1121,14 @@ QWidget .QFrame#frame_3 .QLabel#labelBalancez { /* Available PHR Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_3 .QLabel#labelzBalanceTextz { /* Available zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1141,14 +1141,14 @@ QWidget .QFrame#frame_3 .QLabel#labelzBalancez { /* Available zPHR Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_3 .QLabel#labelLockedBalanceText { /* Available zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1161,14 +1161,14 @@ QWidget .QFrame#frame_3 .QLabel#labelLockedBalance { /* Available zPHR Balance *
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:normal;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_3 .QLabel#labelUnLockedBalanceText { /* Available zPHR Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1181,14 +1181,14 @@ QWidget .QFrame#frame_3 .QLabel#labelUnLockedBalance { /* Available zPHR Balance
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:normal;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
 QWidget .QFrame#frame_3 .QLabel#labelTotalTextz { /* Available total Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color:#808B96;
+background-color:#808080;
 color:#fff;
 margin-right:5px;
 padding-right:5px;
@@ -1201,7 +1201,7 @@ QWidget .QFrame#frame_3 .QLabel#labelTotalz { /* Available total Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000;
+color:#808080;
 margin-left:0px;
 }
 
