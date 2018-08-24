@@ -115,8 +115,8 @@ public:
         nRejectBlockOutdatedMajority = 950;
         nToCheckBlockUpgradeMajority = 1000;
         nMinerThreads = 0;
-        nTargetTimespan = 1 * 60; // zXflea: 1 day
-        nTargetSpacing = 1 * 90;  // zXflea: 1 minute
+        nTargetTimespan = 1 * 60;
+        nTargetSpacing = 1 * 90;
         nMaturity = 10;
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 300000000 * COIN;
@@ -175,8 +175,8 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "04ee2826c4629cd948feb23a59f1142c8cb5914311a92161a3542d861aaffe8eab4184a0a29ded1d555b23d93a754e28687d82856ffb3b19fd7d109f5e7297fdf3";
-        strObfuscationPoolDummyAddress = "XJUq47KtCqh7X54cqcWVZ2R3SVEFAbKHye";
+	strSporkKey = "04CEC4AA8630986742F0A2C0F2ACC2231AA09E549DAA7F43FF9F35192B23B3A7202D34266F8A4DFAF2288659909856C2F3D6F0C88077B3513535ACA4D20A97DB61";
+        strObfuscationPoolDummyAddress = "FQXD83mPT5qLFQadajRosX2RtXffoYxFdZ";
         nStartMasternodePayments = 1529203666;
 
         /** Zerocoin */
